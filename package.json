@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.18.1"
+  },
+  "name": "atack_with_node_js_and_selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Alvaro Torres && Oscar Vargas",
+  "license": "ISC",
+  "description": ""
+}

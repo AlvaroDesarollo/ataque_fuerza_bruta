@@ -1,0 +1,11 @@
+user
+user2
+usuario
+admin
+java
+atacante
+intruso
+computador
+hijo
+madre2
+msfadmin
